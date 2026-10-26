@@ -1,0 +1,5 @@
+/* Task 1: Effortless transitions - make scrolling on the html element fluid */
+
+html {
+  scroll-behavior: smooth;
+}
